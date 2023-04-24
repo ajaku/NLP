@@ -1,3 +1,5 @@
+# Provided by Prof. Sable
+
 # Python script to convert CFG to CNF
 #
 # Assumes that all non-terminals start with a capital letter,
